@@ -16,7 +16,7 @@ public class BreakString {
 		 if (arr[i]== "Selenium" )
 		 
 			 break;
-		 System.out.println("arr[i]");
+		 System.out.println(" before breaking execution-"+arr[i]);
 		}
 		//System.out.println("arr[i]");
 
