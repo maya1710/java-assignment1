@@ -1,2 +1,2 @@
-# java-assignment1
+# java-assignment
 Code for Assignments
